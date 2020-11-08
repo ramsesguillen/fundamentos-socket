@@ -1,0 +1,15 @@
+{
+  "name": "socket-basico",
+  "version": "1.0.0",
+  "description": "Node express sockets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Guillen Ramses Salinas Salinas",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^3.0.0"
+  }
+}
